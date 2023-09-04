@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "4OZdtltctw0dnyauC4Kuyy",
+    "name" : "ded",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-09-04T09:27:24.996Z",
+  "objectRefs" : [ ]
+}
